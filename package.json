@@ -1,0 +1,22 @@
+{
+  "name": "suresecurityjobapp",
+  "version": "1.0.0",
+  "description": "Sure Security Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianDev1/suresecurityapp.git"
+  },
+  "keywords": [
+    "security"
+  ],
+  "author": "Brian Rudolph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianDev1/suresecurityapp/issues"
+  },
+  "homepage": "https://github.com/BrianDev1/suresecurityapp#readme"
+}
